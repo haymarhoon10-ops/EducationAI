@@ -9,7 +9,6 @@
 > * **ONE ZIP folder only (RAR = zero marks)** containing the .ipynb file(s) + .docx report
 > * ZIP named **StreamNo_LeaderID** (e.g. `08_202316152`)
 > * Late = capped at 60%; **2 calendar days late = 0%**
-> * **Generative AI tools are strictly prohibited** for the assessed work
 > * Every step in Colab must have **comments / markdown explanations**
 > * **Justify every choice** (the brief says "explain and justify methodological choices at each stage")
 > * Any references consulted must be **cited**
